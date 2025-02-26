@@ -1,2 +1,2 @@
 # ppchem
-EPFL Master Practical Programmic in Chemistry 
+EPFL Master Practical Programming in Chemistry 
